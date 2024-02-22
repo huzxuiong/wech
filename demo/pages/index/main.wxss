@@ -1,0 +1,6 @@
+.desc {
+    margin: 20rpx 60rpx 60rpx 20rpx;
+    position: relative;
+    color: #999;
+    line-height: 36rpx;
+}

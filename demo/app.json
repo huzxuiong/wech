@@ -1,0 +1,15 @@
+{
+  "pages":[
+    "pages/index/main",
+    "pages/calendar/main",
+    "pages/masks/main"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#FAFAFA",
+    "navigationBarTitleText": "test",
+    "navigationBarTextStyle":"black",
+    "backgroundColor": "#FAFAFA",
+    "enablePullDownRefresh": true
+  }
+}
